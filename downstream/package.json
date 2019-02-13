@@ -1,0 +1,10 @@
+{
+  "name": "my-downstream",
+  "devDependencies": {
+    "my-cli": "^1.0.0"
+  },
+  "scripts": {
+    "build": "echo ok",
+    "my-cli": "my-cli"
+  }
+}
