@@ -9,7 +9,7 @@ Calling `yarn my-cli` from `./downstream` should log `hi`
 ### Actual behavior
 
 ```
-$ my-cli
+$ yarn my-cli
 /bin/sh: my-cli: command not found
 error Command failed with exit code 127.
 ```
